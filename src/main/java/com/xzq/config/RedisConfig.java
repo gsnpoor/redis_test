@@ -12,11 +12,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 import java.net.UnknownHostException;
 
-/**
- * @Author xiaozq
- * @Date 2022/11/7 15:07
- * <p>@Description:</p>
- */
+
 @Configuration
 public class RedisConfig {
 

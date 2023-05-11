@@ -8,11 +8,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @Author xiaozq
- * @Date 2022/11/8 10:02
- * <p>@Description:</p>
- */
 
 @Configuration
 public class ReddisonConfig {
